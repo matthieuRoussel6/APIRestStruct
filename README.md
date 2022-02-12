@@ -1,4 +1,4 @@
-# lequipe-app
+# API vierge
 Ceci est une API REST (menos hypermédia) avec : 
 intégration continue, test unitaires automatisés, virtualisation.
 
